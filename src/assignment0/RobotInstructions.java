@@ -30,6 +30,8 @@ public class RobotInstructions  {
 		 * as you desire.
 		 */
 		robot.forward(60);
+		robot.
+		robot.forward(60);
 		robot.turnLeft(90);
 		robot.forward(23);
 		robot.turnRight(90);
